@@ -1,1 +1,1 @@
-<img src="http://substack.net/images/clown.png">
+<img src="https://raw.githubusercontent.com/xjamundx/nose.js/master/clown.png">
